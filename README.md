@@ -122,3 +122,71 @@ You are required to submit the following for review:
 
 ---
 © 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+
+# <Horiseon Semantic Website Project>
+
+## Description
+
+Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+
+- The aim of the project was to make the Horiseon site more accesible and make its code more efficient
+
+It is doen when
+* Semantic HTML elements can be found throughout the source code
+* HTML elements follow a logical structure independent of styling and positioning
+* Image and icon elements contain accessible `alt` attributes
+* Heading attributes fall in sequential order
+* Title elements contain a concise, descriptive title
+
+## Installation
+
+Click the link to run the website
+
+https://jalexander94.github.io/Office-Hours-1/
+
+## Usage
+
+Navigate through the three main sections using the navigation bar at the top to find out about Search Engine Optimization, Online Reputation Management and Social Media Marketing
+
+![Screenshot of the top of the page with the nav bar in the header](assets/images/Top of Page Screenshot.png)
+![Screenshot of the middle of the page with the sections and the aside](assets/images/Mid-Page Screenshot.png)
+![Screenshot of the bottom of the page with the sections and footer](assets/images/Bottom of Page Screenshot.png)
+
+## License
+
+MIT License
+
+Copyright (c) [year] [fullname]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+## Tests
+
+Test the site by clicking the links in the navigation bar and running it in accesible mode
